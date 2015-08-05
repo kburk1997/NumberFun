@@ -62,7 +62,7 @@ public class Number {
 
         //"Abundant" numbers are numbers whose sum of divisors is greater than the number, not including the number itself
 
-     public boolean isPerfect(){
+     public boolean isAbundant(){
 
             int sum =0; // Sum is 0 by default
 
